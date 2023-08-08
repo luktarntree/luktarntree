@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @luktarntree
-- 💞️ I'm a UI designer & coder
+- 💞️ I'm a UX designer & coder
 - 🌱 I’m currently learning Javascript & ReasonReact
 
 <!---
