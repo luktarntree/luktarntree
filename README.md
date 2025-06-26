@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @luktarntree
 - 💞️ I'm a UX designer & coder
-- 🌱 I’m currently learning Javascript & ReasonReact
+- 🌱 I’m currently learning Javascript
 
 <!---
 luktarntree/luktarntree is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
